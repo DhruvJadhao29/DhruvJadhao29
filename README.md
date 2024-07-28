@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvJadhao29
 - 👀 I’m interested in ...Webdev
-- 🌱 I’m currently learning ...betech FE in electrical 
+- 🌱 I’m currently learning ...betech SE in electrical 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@dhruv29
 - 😄 Pronouns: ...Dhruv
